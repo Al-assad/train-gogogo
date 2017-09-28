@@ -3,7 +3,6 @@
 
 
 运行时的效果大概如下：  
-<br/>
-<img src="http://img.my.csdn.net/uploads/201709/28/1506565981_9225.gif" />   
 
+<a href="http://my.csdn.net/my/album/detail/1835611">show gif</a>
 
