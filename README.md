@@ -4,5 +4,5 @@
 
 运行时的效果大概如下：  
 
-<a href="http://my.csdn.net/my/album/detail/1835611">show gif</a>
+<a href="http://my.csdn.net/my/album/detail/1835611" target="_blank">to show gif</a>
 
