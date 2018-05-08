@@ -3,5 +3,5 @@
 
 
 运行时的效果大概如下：  
-<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3wke7yrfg20ns02o4qs.gif"/>
+<img src="http://wx2.sinaimg.cn/large/e2ce1edfgy1fr3wke7yrfg20ns02o4qs.gif"/>
 
