@@ -3,6 +3,5 @@
 
 
 运行时的效果大概如下：  
-
-<a href="http://my.csdn.net/my/album/detail/1835611" target="_blank">to show gif</a>
+<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3wke7yrfg20ns02o4qs.gif"/>
 
